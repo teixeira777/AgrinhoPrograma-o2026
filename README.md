@@ -1,2 +1,8 @@
-# AgrinhoPrograma-o2026
-plataforma web interativa desenvolvida para auxiliar produtores rurais, gestores agrícolas e interessados em agronegócio sustentável a tomar decisões baseadas em dados sobre produtividade, sustentabilidade e planejamento agrícola.
+Plataforma web desenvolvida para auxiliar produtores rurais na tomada de decisões relacionadas à produtividade, sustentabilidade e planejamento agrícola. A aplicação reúne informações relevantes sobre o agronegócio brasileiro e oferece seis ferramentas interativas para cálculos, diagnósticos e simulações: Calculadora de Produtividade, Simulador de Crédito ABC+, Recomendador de Práticas Sustentáveis, Calculadora de Sequestro de Carbono, Diagnóstico de Sustentabilidade e Planejador de Safra.
+
+O sistema funciona diretamente no navegador, sem necessidade de instalação, bastando abrir o arquivo **index.html** para utilizá-lo. Além disso, é totalmente responsivo, garantindo uma boa experiência de uso em computadores, tablets e smartphones. O projeto é estruturado em quatro arquivos principais: **index.html**, responsável pela estrutura da aplicação; **styles.css**, que define os estilos visuais; **script.js**, que controla a interatividade geral; e **tools.js**, que implementa as ferramentas interativas.
+
+Entre os dados apresentados, destacam-se informações da safra 2024/2025, com uma produção estimada de 323,3 milhões de toneladas de grãos, além da existência de 1.972 Agtechs e 451 ambientes de inovação no Brasil. A plataforma também destaca R$ 605 bilhões em investimentos do Plano Safra e US$ 16,3 bilhões movimentados pelo mercado de carbono.
+
+Com uma identidade visual profissional baseada em tons de verde, amarelo e branco, a interface foi projetada para ser moderna, intuitiva e acessível. O principal objetivo do App da Teixeira é democratizar o acesso a informações e ferramentas que contribuam para uma agropecuária mais produtiva, eficiente e ambientalmente responsável.
+
